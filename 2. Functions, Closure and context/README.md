@@ -4,4 +4,4 @@
 
 <br>
 
-<img width="9281" height="12081" alt="day2" src="https://github.com/user-attachments/assets/8c1c4642-f8e6-497f-b3d8-b7abc13ac404" />
+<img width="9701" height="17350" alt="day22" src="https://github.com/user-attachments/assets/f87e3f36-591d-478b-ad9e-b4deeb8599fb" />
